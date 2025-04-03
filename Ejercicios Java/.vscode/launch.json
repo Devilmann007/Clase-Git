@@ -1,0 +1,119 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Variables",
+            "request": "launch",
+            "mainClass": "Variables",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Tabla_verdad",
+            "request": "launch",
+            "mainClass": "Tabla_verdad",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Operaciones",
+            "request": "launch",
+            "mainClass": "Operaciones",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Listas",
+            "request": "launch",
+            "mainClass": "Listas",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Lista",
+            "request": "launch",
+            "mainClass": "Lista",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Ley_Ohm",
+            "request": "launch",
+            "mainClass": "Ley_Ohm",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Interaccion_Usuarios",
+            "request": "launch",
+            "mainClass": "Interaccion_Usuarios",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Funciones",
+            "request": "launch",
+            "mainClass": "Funciones",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Diccionario",
+            "request": "launch",
+            "mainClass": "Diccionario",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Condicionales",
+            "request": "launch",
+            "mainClass": "Condicionales",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Condicionales_if_else",
+            "request": "launch",
+            "mainClass": "Condicionales_if_else",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Ciclo_for",
+            "request": "launch",
+            "mainClass": "Ciclo_for",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Cajero",
+            "request": "launch",
+            "mainClass": "Cajero",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Bucle_for",
+            "request": "launch",
+            "mainClass": "Bucle_for",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Bucles_while",
+            "request": "launch",
+            "mainClass": "Bucles_while",
+            "projectName": "Ejercicios Java_941c2017"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
